@@ -1,0 +1,11 @@
+.cardsec{
+    padding-left: 20px;
+}
+
+
+.cardsingle{
+    border: 1px solid red;
+    display: flex;
+     padding:50px;
+     border-radius: 20px;
+}
